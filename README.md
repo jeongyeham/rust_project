@@ -45,11 +45,10 @@ Special thanks to **[软件工艺师](https://space.bilibili.com/361469957)**, a
 1. Ensure Rust toolchain is installed: [Rust Official Website](https://www.rust-lang.org/).
 2. Clone the project:
    ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone [https://github.com/your-repo-name.git](https://github.com/jeongyeham/rust_project.git)
+   cd rust_project
    ```
 3. Build and run:
-   ```bash
    cargo run
    ```
 
