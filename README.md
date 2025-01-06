@@ -49,6 +49,7 @@ Special thanks to **[软件工艺师](https://space.bilibili.com/361469957)**, a
    cd rust_project
    ```
 3. Build and run:
+   ```bash
    cargo run
    ```
 
