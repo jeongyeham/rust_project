@@ -24,31 +24,6 @@ Special thanks to **[软件工艺师](https://space.bilibili.com/361469957)**, a
 
 ---
 
-## 📚 Learning Content
-
-This project covers foundational to advanced Rust topics:
-
-### 🛠 Basic Syntax and Data Types
-- **Variable Binding & Mutability**: Control over variable reassignment.
-- **Ownership Rules**: Core concept for memory management.
-
-### 🔑 Ownership and Borrowing
-- **References & Borrowing**: Safely referencing data without ownership transfer.
-- **Lifetimes**: Managing data scope and avoiding dangling references.
-
-### 🏛 Structs and Enums
-- **Custom Data Types**: Defining structured types for better code organization.
-- **Pattern Matching with `match`**: Elegant handling of complex control flows.
-
-### ⚠️ Error Handling
-- **`Result` and `Option` Enums**: Recoverable and unrecoverable error handling with clarity.
-
-### 🔄 Concurrent Programming
-- **Multithreading**: Creating threads with `std::thread`.
-- **Data Sharing**: Using `Mutex` and `Arc` for safe concurrency.
-
----
-
 ## 🏗 Project Structure
 
 ```plaintext
