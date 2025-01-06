@@ -1,6 +1,10 @@
 # Rust Project
 
-Welcome to my **Rust Learning Project**! This project is a result of following an engaging Rust tutorial taught by a Microsoft MVP on Bilibili. It documents my learning journey and showcases features implemented to demonstrate Rust's power and elegance.
+Welcome to my **Rust Learning Project**! 
+
+This project is a result of following an engaging Rust tutorial taught by a Microsoft MVP on Bilibili. 
+
+It documents my learning journey and showcases features implemented to demonstrate Rust's power and elegance.
 
 > **Rust**: A modern systems programming language with high performance, zero-cost abstractions, memory safety, and a rich ecosystem.
 
